@@ -1,0 +1,11 @@
+site_name: WWHF 2023 - Satellite Lab
+
+
+theme:
+    name: readthedocs
+    highlightjs: true
+    hljs_languages:
+        - yaml
+        - python
+        - c
+        - c++
